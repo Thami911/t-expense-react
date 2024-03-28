@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/t-expense-react/static/css/main.f7455dbd.chunk.css",
-    "main.js": "/t-expense-react/static/js/main.3e067350.chunk.js",
-    "main.js.map": "/t-expense-react/static/js/main.3e067350.chunk.js.map",
+    "main.css": "/t-expense-react/static/css/main.fd3343fe.chunk.css",
+    "main.js": "/t-expense-react/static/js/main.13ed3138.chunk.js",
+    "main.js.map": "/t-expense-react/static/js/main.13ed3138.chunk.js.map",
     "runtime-main.js": "/t-expense-react/static/js/runtime-main.9091829a.js",
     "runtime-main.js.map": "/t-expense-react/static/js/runtime-main.9091829a.js.map",
     "static/js/2.1261af49.chunk.js": "/t-expense-react/static/js/2.1261af49.chunk.js",
     "static/js/2.1261af49.chunk.js.map": "/t-expense-react/static/js/2.1261af49.chunk.js.map",
     "index.html": "/t-expense-react/index.html",
-    "precache-manifest.50c632f37732aace8a4e90a0e8f13bd5.js": "/t-expense-react/precache-manifest.50c632f37732aace8a4e90a0e8f13bd5.js",
+    "precache-manifest.066328a5b2514506ffd0ca231499cf18.js": "/t-expense-react/precache-manifest.066328a5b2514506ffd0ca231499cf18.js",
     "service-worker.js": "/t-expense-react/service-worker.js",
-    "static/css/main.f7455dbd.chunk.css.map": "/t-expense-react/static/css/main.f7455dbd.chunk.css.map",
+    "static/css/main.fd3343fe.chunk.css.map": "/t-expense-react/static/css/main.fd3343fe.chunk.css.map",
     "static/js/2.1261af49.chunk.js.LICENSE.txt": "/t-expense-react/static/js/2.1261af49.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9091829a.js",
     "static/js/2.1261af49.chunk.js",
-    "static/css/main.f7455dbd.chunk.css",
-    "static/js/main.3e067350.chunk.js"
+    "static/css/main.fd3343fe.chunk.css",
+    "static/js/main.13ed3138.chunk.js"
   ]
 }
