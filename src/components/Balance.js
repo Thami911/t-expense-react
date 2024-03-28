@@ -5,7 +5,7 @@ import { GlobalContext } from '../context/GlobalState';
 function moneyFormatter(num) {
   let p = num.toFixed(2).split('.');
   return (
-    '$ ' + (p[0].split('')[0]=== '-' ? '-' : '') +
+    'R ' + (p[0].split('')[0]=== '-' ? '-' : '') +
     p[0]
       .split('')
       .reverse()
